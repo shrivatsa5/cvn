@@ -1,0 +1,34 @@
+{
+  "name": "cvn-bot",
+  "version": "1.0.0",
+  "description": "Bot helps users regarding vaccine supply and availability.",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Varun Hegde, Shrivatsa Hegde",
+  "license": "ISC",
+  "engines": {
+    "node": "14.15.4"
+  },
+  "dependencies": {
+    "cron-job": "^1.0.3",
+    "discord-welcome": "^2.0.2",
+    "discord.js": "^12.5.3",
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "got": "^10.2.1",
+    "mongoose": "^5.12.10",
+    "node-cron": "^3.0.0",
+    "nodemon": "^2.0.7",
+    "superagent": "^6.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shrivatsa5/CVN-Bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shrivatsa5/CVN-Bot/issues"
+  },
+  "homepage": "https://github.com/shrivatsa5/CVN-Bot#readme"
+}
