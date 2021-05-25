@@ -17,13 +17,13 @@ BFH/rec7l5EeMXUMwCpAa/2021
 5. $pincode - get vaccination session on a specific date in your pincode
 7. $help -enter help and the command separated by space to get help regarding a command
 ## Libraries used
-"discord.js": "^12.5.3",
-"dotenv": "^9.0.2",
-"express": "^4.17.1",
-"got": "^11.8.2",
-"mongoose": "^5.12.10",
-"node-cron": "^3.0.0",
-"nodemon": "^2.0.7"
+    "discord.js": "^12.5.3",
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "got": "^11.8.2",
+    "mongoose": "^5.12.10",
+    "node-cron": "^3.0.0",
+    "nodemon": "^2.0.7"
 ## How to configure
 enter npm install
 ## How to Run
